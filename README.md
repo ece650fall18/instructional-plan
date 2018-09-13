@@ -1,6 +1,10 @@
 ## Lectures ##
 * 5:30-8:20AM , Thursday E7 4043
 
+## Instructor
+
+* Alireza Sharifi (alireza.sharifi@uwaterloo.ca)
+
 ## Teaching Assistant
 * Hari Govind Vediramana Krishnan (hgvedira@uwaterloo.ca)
 
